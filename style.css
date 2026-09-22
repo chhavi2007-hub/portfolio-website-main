@@ -363,6 +363,11 @@ profile-area {
     bottom: 90px;
     animation-delay: 1.5s;
 }
+.card-one{
+    right: 0;
+    bottom: 90px;
+    animation-delay: 1.5s;
+}
 
 @keyframes floating {
     50% {
