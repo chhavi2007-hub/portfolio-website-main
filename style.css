@@ -366,13 +366,13 @@ font-size: 14px;
     font-size: 13px;
 }
 .card-one{
-    top: 150px;
+    top: 250px;
     right:300px;
 }
 
 .card-two {
+    top: 250px;
     right: 180px;
-    bottom: 380px;
     animation-delay: 1.5s;
 }
 
