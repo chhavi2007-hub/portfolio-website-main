@@ -243,7 +243,7 @@ font-size: 14px;
     color: #050505;
     background: var(--accent);
 }
-profile-area {
+.profile-area {
     position: relative;
     display: flex;
     justify-content: center;
@@ -273,7 +273,6 @@ profile-area {
 }
 
 .profile-ring {
-    position: relative;
 
     width: 290px;
     height: 290px;
@@ -463,7 +462,7 @@ section {
 .stat-box span {
     color: #aaa;
 }
-skills-grid {
+.skills-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 15px;
